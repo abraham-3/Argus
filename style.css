@@ -103,7 +103,7 @@ body {
 
 .section-2-content {
   transition: 0.3s;
-  background-color: teal;
+  /* background-color: teal; */
   height: 100vh;
   width: 100vw;
 }
@@ -177,7 +177,7 @@ section {
   position: relative;
   top: 20vh;
   left: -3%;
-  box-shadow: 0px 5px 25px 1px rgba(0, 0, 0, 0.18);
+  /* box-shadow: 0px 5px 25px 1px rgba(0, 0, 0, 0.18); */
   border: white 10px solid;
 }
 
@@ -214,7 +214,8 @@ section {
   position: relative;
   left: -13%;
   top: 32vh;
-  box-shadow: 0px 5px 25px 1px rgba(0, 0, 0, 0.2);
+  border: white 10px solid;
+  /* box-shadow: 0px 5px 25px 1px rgba(0, 0, 0, 0.2); */
   transition: 0.3s;
   transition-timing-function: cubic-bezier(.95,0,.24,.99);
 }
@@ -262,7 +263,7 @@ section {
 }
 
 .section-3-content {
-  background-color: lime;
+  /* background-color: lime; */
   position: relative;
   padding: 2em;
   height: 85vh;
@@ -321,7 +322,7 @@ section {
   left: 32%;
   transition: 0.3s;
   transition-timing-function: cubic-bezier(.95,0,.24,.99);
-  box-shadow: 0px 5px 25px 1px rgba(0, 0, 0, 0.3);
+  /* box-shadow: 0px 5px 25px 1px rgba(0, 0, 0, 0.3); */
 }
 
 .img-5:hover {
@@ -344,7 +345,7 @@ section {
 }
 
 .section-4-content {
-  background-color: yellow;
+  /* background-color: yellow; */
   position: relative;
   padding: 2em;
   height: 100vh;
@@ -437,7 +438,7 @@ section {
 
 
 .section-5-content {
-  background-color: lime;
+  /* background-color: lime; */
   height: 75vh;
   width: 100vw;
 }
@@ -460,6 +461,7 @@ section {
   left: 33vw;
   top: -22vh;
   transition: 0.3s;
+  border: white 10px solid;
   box-shadow: 0px 5px 25px 1px rgba(0, 0, 0, 0.18);
 }
 
@@ -470,6 +472,7 @@ section {
   left: 25vw;
   position: relative;
   transition: 0.3s;
+  border: white 10px solid;
   box-shadow: 0px 5px 25px 1px rgba(0, 0, 0, 0.30);
 }
 
